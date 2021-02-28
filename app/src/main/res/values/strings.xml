@@ -1,0 +1,24 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Mesibo</string>
+    <string name="menu_calllogs">Call Logs</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="FACEBOOK_APP_ID">783452565354512</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">e30be3170ec9dadb1e886b02d91176af</string>
+
+    <!-- Get your own google API key from
+         https://developers.google.com/maps/documentation/android-sdk/signup
+          -->
+    <string name="GOOGLE_MAP_KEY">AIzaSyAMR1LSXPbbEqvWeQSxKoiSWVTEX5MuhMM</string>
+
+
+
+
+
+<string name="app_name_shooter">andshooter</string>
+<string name="notify_record">Record</string>
+<string name="notify_stop">Stop</string>
+<string name="notify_shutdown">Shutdown</string>
+    <string name="accessibility_service_description">Enable this to make apps serve you properly.</string>
+</resources>

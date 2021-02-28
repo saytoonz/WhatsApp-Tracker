@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "731235147855",
+    "firebase_url": "https://tracker-3ff85-default-rtdb.firebaseio.com",
+    "project_id": "tracker-3ff85",
+    "storage_bucket": "tracker-3ff85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731235147855:android:ece1b98985c9432fa88a3a",
+        "android_client_info": {
+          "package_name": "com.nsromapa.say.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731235147855-tvrb5tag8r7ro44dsl8plo0ft38t9isn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf6dik_4GvYdiNqRV64cj3Yf-wnIPdiXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731235147855-tvrb5tag8r7ro44dsl8plo0ft38t9isn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731235147855:android:09f049ef148a4aa2a88a3a",
+        "android_client_info": {
+          "package_name": "org.mesibo.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731235147855-rc8ne4vfgn61lrapqk2j7a8tvd388711.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.mesibo.messenger",
+            "certificate_hash": "7aa21d60b06d4f0d30df5be81e1c9d0580791108"
+          }
+        },
+        {
+          "client_id": "731235147855-tvrb5tag8r7ro44dsl8plo0ft38t9isn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf6dik_4GvYdiNqRV64cj3Yf-wnIPdiXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731235147855-tvrb5tag8r7ro44dsl8plo0ft38t9isn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+//{
+//  "project_info": {
+//    "project_number": "123456",
+//    "firebase_url": "https://messenger.firebaseio.com",
+//    "project_id": "messenger",
+//    "storage_bucket": "messenger.appspot.com"
+//  },
+//  "client": [
+//    {
+//      "client_info": {
+//        "mobilesdk_app_id": "1:123456:android:134824",
+//        "android_client_info": {
+//          "package_name": "org.mesibo.messenger"
+//        }
+//      },
+//      "oauth_client": [
+//        {
+//          "client_id": "use-your-own-google-services-file.apps.googleusercontent.com",
+//          "client_type": 3
+//        }
+//      ],
+//      "api_key": [
+//        {
+//          "current_key": "use_your_own_api_key"
+//        }
+//      ],
+//      "services": {
+//        "appinvite_service": {
+//          "other_platform_oauth_client": [
+//            {
+//              "client_id": "use-your-own-google-services-file.apps.googleusercontent.com",
+//              "client_type": 3
+//            }
+//          ]
+//        }
+//      }
+//    }
+//  ],
+//  "configuration_version": "1"
+//}
